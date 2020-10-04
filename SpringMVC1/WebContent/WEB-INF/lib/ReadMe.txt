@@ -1,0 +1,1 @@
+add all the jar files of spring4.x and commons-logging-1.2
